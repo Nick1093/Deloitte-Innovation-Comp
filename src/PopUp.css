@@ -1,5 +1,15 @@
 .container {
-  margin-top: 650px;
+  margin-top: 630px;
+}
+
+.v1_342 {
+  width: 414px;
+  height: 896px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 0.5;
+  position: absolute;
+  top: 3px;
+  left: 7px;
 }
 
 .v1_343 {
@@ -115,7 +125,7 @@
 .v1_355 {
   width: 15px;
   height: 15px;
-  /* background: url(".v1_355.png"); */
+  /* background: url("../images/v1_355.png"); */
   opacity: 1;
   position: absolute;
   top: 501px;

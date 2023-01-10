@@ -1,0 +1,342 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v17_405 {
+  width: 393px;
+  height: 852px;
+  background: rgba(245, 245, 248, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v22_29 {
+  width: 365px;
+  height: 424px;
+  /* background: url(".v22_29.png"); */
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 190px;
+  left: 15px;
+  overflow: hidden;
+}
+.v21_497 {
+  width: 365px;
+  height: 424px;
+  background: rgba(104, 127, 161, 0.28999999165534973);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v22_2 {
+  width: 306px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 647px;
+  left: 45px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Josefin Sans;
+  font-weight: SemiBold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v17_439 {
+  width: 314px;
+  height: 70px;
+  background: rgba(221, 15, 45, 1);
+  opacity: 1;
+  position: absolute;
+  top: 739px;
+  left: 37px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v17_442 {
+  width: 85px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 763px;
+  left: 148px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 17px;
+  opacity: 1;
+  text-align: center;
+}
+.v17_443 {
+  width: 24px;
+  height: 24px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 30px;
+  overflow: hidden;
+}
+.v17_444 {
+  width: 6px;
+  height: 12px;
+  /* background: url("./v17_444.png"); */
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  left: 9px;
+  border: 2px solid rgba(0, 0, 0, 1);
+}
+.v17_449 {
+  width: 142px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 26px;
+  left: 136px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v21_488 {
+  width: 164px;
+  height: 23px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 549px;
+  left: 121px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v19_486 {
+  width: 357px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 93px;
+  left: 23px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 47px;
+  opacity: 1;
+  text-align: center;
+}
+.v21_495 {
+  width: 288px;
+  height: 346px;
+  /* background: url("./v21_495.png"); */
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 203px;
+  left: 68px;
+  overflow: hidden;
+}
+.v21_487 {
+  width: 255px;
+  height: 293px;
+  background: rgba(235, 235, 231, 1);
+  opacity: 1;
+  position: absolute;
+  top: 52px;
+  left: 7px;
+}
+.v21_489 {
+  width: 269px;
+  height: 27px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 43px;
+  left: 0px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v21_490 {
+  width: 244px;
+  height: 33px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v21_494 {
+  width: 34px;
+  height: 16px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 192px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v21_491 {
+  width: 255px;
+  height: 333px;
+  background: linear-gradient(rgba(81, 24, 8, 1), rgba(19, 10, 10, 1));
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 33px;
+}
+.name {
+  color: #fff;
+}
+.v21_493 {
+  width: 49px;
+  /* background: url("PopUp.js"); */
+  opacity: 1;
+  position: absolute;
+  top: 394px;
+  left: 134px;
+  border: 7px solid rgba(255, 255, 255, 1);
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v22_10 {
+  width: 56px;
+  color: rgba(81, 24, 8, 1);
+  position: absolute;
+  top: 311px;
+  left: 17px;
+  font-family: Bungee Inline;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_34 {
+  width: 56px;
+  color: rgba(244, 244, 247, 1);
+  position: absolute;
+  top: 352px;
+  left: 19px;
+  font-family: Bungee;
+  font-weight: Regular;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_13 {
+  width: 115px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 233px;
+  left: 163px;
+  font-family: Bungee Inline;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: left;
+}
+.v22_11 {
+  width: 27px;
+  height: -1px;
+  /* background: url("./v22_11.png"); */
+  opacity: 1;
+  position: absolute;
+  top: 330px;
+  left: 68px;
+  border: 5px solid rgba(116, 55, 10, 1);
+}
+.v21_496 {
+  width: 46px;
+  height: 51px;
+  /* background: url("./v21_496.png"); */
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 123px;
+  left: 181px;
+  overflow: hidden;
+}
+.v22_4 {
+  width: 56px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 549px;
+  left: 192px;
+  /* font-family: #9Slide07 Bungee Shade; */
+  font-weight: Regular;
+  font-size: 19px;
+  opacity: 1;
+  text-align: left;
+}
+.v19_475 {
+  width: 262px;
+  height: 9px;
+  background: none;
+  opacity: 1;
+  position: absolute;
+  top: 581px;
+  left: 72px;
+  border-radius: 50%;
+}
